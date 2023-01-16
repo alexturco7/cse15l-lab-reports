@@ -38,11 +38,13 @@ You should then get a message that looks like this (insert message) which means 
 
 Finally, test out some commands.
 Use commands like:
-* ex
-* ex
-* ex
-* ex
-* ex
+* cd ~
+* cd
+* ls -lat
+* ls -a
+* ls /home/linux/ieng6/cs15lwi23/"another students username"
+* cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
+* cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 
 You should get back some results that look along the lines of (insert photo)
 
