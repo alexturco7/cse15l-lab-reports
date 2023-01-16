@@ -9,6 +9,7 @@ Personally, I was able to skip this step as I had previously downloaded this app
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Step 2 : Find your course-specific username
+
 Visit the link https://sdacs.ucsd.edu/~icc/index.php to find your course-specific username.
 When prompted, enter in your UCSD username and PID. 
 Then, locate your username beginning with cs15l.
@@ -21,6 +22,7 @@ Wait at least 15 minutes before moving onto the next step.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Step 3 : Log-in to the remote server
+
 Using windows requires some first steps.
 Install git, Git for Windows, then follow steps to make git bash your default server, Using Bash on Windows in VScode.
 I did not have to do this as I am using a mac.
