@@ -56,4 +56,4 @@ Using the command `cd` changes the current working directory into what you provi
 
 * Step 5 : Log-out
 
-To log-out of the remote server you can use "ctrl-D" or type the command "exit" and get something that looks like this. ![Image](ss7.png)
+To log-out of the remote server you can use `ctrl-D` or type the command `exit` and get something that looks like this. ![Image](ss7.png)
