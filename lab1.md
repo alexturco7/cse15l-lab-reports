@@ -30,7 +30,7 @@ Using windows requires some first steps.
 Install git, Git for Windows, then follow steps to make git bash your default server, Using Bash on Windows in VScode.
 I did not have to do this as I am using a mac.
 Now, open a terminal in VS code.
-you will then type the command 'ssh YOUR_ACCOUNT@ieng6.ucsd.edu' into the terminal, with your specific account in front of @ieng6.ucsd.edu.
+you will then type the command `ssh YOUR_ACCOUNT@ieng6.ucsd.edu` into the terminal, with your specific account in front of @ieng6.ucsd.edu.
 If this is your first time logging in, you will probably get a message that looks like this. ![Image](ss4.png)
 Type "yes" and enter your password (you will not be able to see what you are typing and that is OK).
 You should then get a message that looks like this. ![Image](ss5.png) This means you are connected to a CSE building computer.
@@ -41,15 +41,16 @@ You should then get a message that looks like this. ![Image](ss5.png) This means
 
 Finally, test out some commands.
 Use commands like:
-* 'cd ~'
-* 'cd'
-* 'ls -lat'
-* 'ls -a'
-* 'ls /home/linux/ieng6/cs15lwi23/"another students username"'
-* 'cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/'
-* 'cat /home/linux/ieng6/cs15lwi23/public/hello.txt'
+* `cd ~`
+* `cd`
+* `ls -lat`
+* `ls -a`
+* `ls /home/linux/ieng6/cs15lwi23/"another students username"`
+* `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
+* `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
 
 You should get back some results that look along the lines of ![Image](ss6.png)
+Using the command `cd` changes the current working directory into what you provide after it. Using the `ls` command shows he files in the given directory. Finally, using `cp` can add paths to the classpath while `cat` can show the contents of files. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
