@@ -2,7 +2,7 @@
 ## Alex Turco
 * Step 1 : Install VS Code
 
-Visit the link [Link](https://code.visualstudio.com/) to install VS code to your computer. 
+Visit the [link](https://code.visualstudio.com/) to install VS code to your computer. 
 On the website there will be specific instructions on how to complete the download and installation to your specific type of device. 
 Personally, I was able to skip this step as I had previously downloaded this application for CSE 11 last quarter.
 ![Image](ss1.png)
@@ -11,7 +11,7 @@ Personally, I was able to skip this step as I had previously downloaded this app
 
 * Step 2 : Find your course-specific username
 
-Visit the link [Link](https://sdacs.ucsd.edu/~icc/index.php) to find your course-specific username.
+Visit the [link](https://sdacs.ucsd.edu/~icc/index.php) to find your course-specific username.
 When prompted, enter in your UCSD username and PID. 
 Then, locate your username beginning with cs15l.
 ![Image](ss2.png)
