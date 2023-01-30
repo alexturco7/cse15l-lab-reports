@@ -1,3 +1,8 @@
+# CSE 15L Week 3 Lab Report
+## Alex Turco
+
+---
+
 __My Code for String Server:__
 ```
 import java.io.IOException;
