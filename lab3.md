@@ -1,6 +1,4 @@
-`-r` 
-
-In each of these examples I preceed the commands with the `-r` command. This command recursively goes through the contains of the directories. This means it is able to search through all of the sub-directories and files of the main directory.
+`-r` : In each of these examples I preceed the commands with the `-r` command. This command recursively goes through the contains of the directories. This means it is able to search through all of the sub-directories and files of the main directory.
 
 ---
 `-l` : Instead of printing the normal output of grep, it cuts it down to only display the names of the files in which the search was found. This is useful when you don't want anything besides the file names of the mathces.
