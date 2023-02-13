@@ -1,3 +1,8 @@
+# CSE 15L Week 5 Lab Report
+## Alex Turco
+
+---
+
 `-r` : In each of these examples I preceed the commands with the `-r` command. This command recursively goes through the contains of the directories. This means it is able to search through all of the sub-directories and files of the main directory.
 
 ---
