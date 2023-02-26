@@ -1,3 +1,8 @@
+# CSE 15L Week 8 Lab Report
+## Alex Turco
+
+---
+
 To start, I pressed the `<up>` arrow 5 times to access the command `ssh cs15lwi23awq@ieng6.ucsd.edu` in my search histoy and logged into the remote server ![image](ssh.png)
 
 Then, I pressed the `<up>` arrow 10 more times to access the command `git clone https://github.com/alexturco7/lab7` in my search history and cloned the repository into my remote server ![image](clone.png)
