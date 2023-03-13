@@ -1,15 +1,21 @@
+# CSE 15L Week 9 Lab Report
+## Alex Turco
+
+---
+
 `less`: The less command in linux allows for a user to search for a provided file path and show its contents page by page. This is useful as you may not want to load the entirety of the contents at once to view.
 
 General Input:
 `less ./travel_guides/berlitz2/Vallarta-History.txt`
 
-Output: Image
+Output: ![Image](vpic.png)
 
 Explanation: The contents of `./travel_guides/berlitz2/Vallarta-History.txt` are shown.
 
 General Input:
 `less ./travel_guides/berlitz1/WhatToItaly.txt`
-Output: Image
+
+Output: ![Image](ipic.png)
 
 Explanation: The contents of `./travel_guides/berlitz1/WhatToItaly.txt` are shown.
 
@@ -19,14 +25,14 @@ Explanation: The contents of `./travel_guides/berlitz1/WhatToItaly.txt` are show
 Input:
 `less -S ./travel_guides/berlitz2/Vallarta-History.txt`
 
-Output: Image
+Output: ![Image](vspic1.png) ![Image](vspic2.png) ![Image](vspic3.png)
 
 Explanation: The larger lines of the file are only visible after moving to the right.
 
 Input:
 `less -S ./travel_guides/berlitz1/WhatToItaly.txt`
 
-Output: Image
+Output: ![Image](ispic.png)
 
 Explanation: Because the file had no lines that needed to be wrapped, the contents are displayed the same as without `-S`.
 
@@ -49,14 +55,14 @@ Output/ Explanation: While exiting the contents of the file, I was able to use `
 Input:
 `less -e ./travel_guides/berlitz2/Vallarta-History.txt`
 
-Output: Image
+Output: ![Image](vend.png)
 
 Explanation: Upon reaching the end a second time, the contents were exited automatically.
 
 Input:
 `less -e ./travel_guides/berlitz1/WhatToItaly.txt`
 
-Output: Image
+Output: ![Image](iend.png)
 
 Explanation: Upon reaching the end a second time, the contents were exited automatically.
 
@@ -66,13 +72,9 @@ Explanation: Upon reaching the end a second time, the contents were exited autom
 Input:
 `less -E ./travel_guides/berlitz2/Vallarta-History.txt`
 
-Output: Image
-
-Explanation: Upon reaching the end, the contents were exited automatically.
+Output/ Explanation: Upon reaching the end, the contents were exited automatically.
 
 Input:
 `less -E ./travel_guides/berlitz1/WhatToItaly.txt`
 
-Output: Image
-
-Explanation: Upon reaching the end, the contents were exited automatically.
+Output/ Explanation: Upon reaching the end, the contents were exited automatically.
